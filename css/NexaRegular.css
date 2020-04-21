@@ -1,0 +1,7 @@
+
+@font-face {
+    font-family:"NexaRegular";
+    src:url("NexaRegular.woff2") format("woff2"),url("NexaRegular.woff") format("woff"),url("NexaRegular.otf") format("opentype");
+    font-style:normal;font-weight:400;
+}
+        
