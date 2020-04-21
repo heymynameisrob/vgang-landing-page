@@ -158,7 +158,7 @@ main {
 @media(min-width:48rem) {
   main {
     display:flex;
-    margin:0;
+    margin:0 auto;
   }
 }
 main section {
